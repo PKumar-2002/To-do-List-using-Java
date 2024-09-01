@@ -23,14 +23,22 @@ Commands:
 2. list - List all tasks
 3. remove <index> - Remove a task by its index
 4. exit - Exit the application
+
 Enter command: add Buy groceries
+
 Task added: Buy groceries
+
 Enter command: add Call John
+
 Task added: Call John
+
 Enter command: list
+
 Tasks:
+
 1. Buy groceries
 2. Call John
+
 Enter command: exit
 
 Exiting the application.

@@ -14,3 +14,22 @@ Welcome to the **To-Do List Application**! This simple Java command-line program
 ### Prerequisites
 
 - **Java Development Kit (JDK)**: Ensure you have JDK installed. You can download it from [Oracle's website](https://www.oracle.com/java/technologies/javase-downloads.html).
+
+## Example:
+
+- Welcome to the To-Do List Application!
+Commands:
+1. add <task> - Add a new task
+2. list - List all tasks
+3. remove <index> - Remove a task by its index
+4. exit - Exit the application
+Enter command: add Buy groceries
+Task added: Buy groceries
+Enter command: add Call John
+Task added: Call John
+Enter command: list
+Tasks:
+1. Buy groceries
+2. Call John
+Enter command: exit
+Exiting the application.

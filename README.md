@@ -32,4 +32,5 @@ Tasks:
 1. Buy groceries
 2. Call John
 Enter command: exit
+
 Exiting the application.
